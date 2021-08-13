@@ -1,4 +1,4 @@
-19214431181088480
+19216063682901538
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -56209,7 +56209,7 @@ Yellow 5381 Series LED
 0
 2
 2
-MODULE_MEGA_PRO_EMBED_CH340G_git
+MODULE_MEGA_PRO_EMBED_CH340G_
 _ATMEGA2560
 
 
@@ -83033,3 +83033,10 @@ varistor SIOV
 0
 2
 2
+analog_cam
+Analog-cam
+
+
+0
+6
+6
